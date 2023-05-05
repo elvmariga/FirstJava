@@ -15,7 +15,7 @@ public class FirstJava {
                 // for ( int i = 0; i<10; i++)
                 // System.out.println("Hello " + i );
                 
-                Calculator rect = new Calculator();
+                Calculator rect = new Calculator  ();
 
                 int results = rect.perimeter(4, 9);
 
